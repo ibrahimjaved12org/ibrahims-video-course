@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ibrahims-video-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahims-video-course"
+  },
+  "course_title": "ibrahims-video-course",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "**ibrahims-video-course**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ibrahims-video-course",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "559b7c31-5b38-4fff-8c14-ebaf6ce50982",
+  "site_short_id": "ibrahims-video-course"
+}
